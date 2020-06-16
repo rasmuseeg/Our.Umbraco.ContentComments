@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContentComments.Umbraco.WebUI", "ContentComments.Umbraco.WebUI\ContentComments.Umbraco.WebUI.csproj", "{E33FB3C3-9EA1-4439-9267-EE7023A0D292}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Umbraco.ContentApps.Comments", "Umbraco.ContentApps.Comments\Umbraco.ContentApps.Comments.csproj", "{783A9A4B-8458-4128-857F-B83BE5AAC761}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E33FB3C3-9EA1-4439-9267-EE7023A0D292}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E33FB3C3-9EA1-4439-9267-EE7023A0D292}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E33FB3C3-9EA1-4439-9267-EE7023A0D292}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E33FB3C3-9EA1-4439-9267-EE7023A0D292}.Release|Any CPU.Build.0 = Release|Any CPU
+		{783A9A4B-8458-4128-857F-B83BE5AAC761}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{783A9A4B-8458-4128-857F-B83BE5AAC761}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{783A9A4B-8458-4128-857F-B83BE5AAC761}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{783A9A4B-8458-4128-857F-B83BE5AAC761}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {881D3702-E0D4-4D29-9D81-6FB792E81EAB}
+	EndGlobalSection
+EndGlobal
